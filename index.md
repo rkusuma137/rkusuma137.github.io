@@ -13,6 +13,9 @@ I've been interested in Physics Olympiads for quite a while, so I created this p
 ## Thoughts
 I will be sharing my thoughts and experiences here. 
 
+[Go to Post OSN Reflection](newpost.md)
+
+
 ## Interesting Stuff
 An assortment of sites, papers, and competitions I find inspiringly amusing.
 - Kirk McDonald's [website](https://kirkmcd.princeton.edu/examples/)
