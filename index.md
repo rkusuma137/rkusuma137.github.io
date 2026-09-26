@@ -6,7 +6,7 @@ title: Home
 
 
 ## About
-Hi! My name is Rizky Kusuma and I'm currently a sophomore at a senior high in Indonesia. This year, I qualified for the Indonesian Physics Olympiad (InaPhO) Final Round. And I hope to participate at the International Physics Olympiad (IPhO) and Asian Physics Olympiad (APhO) in the near future. 
+Hi! My name is Rizky Kusuma and I'm currently a sophomore at a senior high school in Indonesia. This year, I qualified for the Indonesian Physics Olympiad (InaPhO) Final Round. And I hope to participate at the International Physics Olympiad (IPhO) and Asian Physics Olympiad (APhO) in the near future. 
 
 I've been interested in Physics Olympiads for quite a while, so I created this page to share my journey.
 
