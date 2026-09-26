@@ -18,6 +18,6 @@ An assortment of sites, papers, and competitions I find inspiringly amusing.
 - Kirk McDonald's [website](https://kirkmcd.princeton.edu/examples/)
 - Alexander Zlokapa's [site](https://www.mit.edu/~azlokapa/index.html)
 - Kevin Zhou's [blog](https://knzhou.github.io/)
-- [Heller and Reif (1984)](https://www.tandfonline.com/doi/abs/10.1207/s1532690xci0102_2)
-- [Chi, Feltovich, Glaser (1981)](https://onlinelibrary.wiley.com/doi/10.1207/s15516709cog0502_2)
+- Heller and Reif [(1984)](https://www.tandfonline.com/doi/abs/10.1207/s1532690xci0102_2)
+- Chi, Feltovich, Glaser [(1981)](https://onlinelibrary.wiley.com/doi/10.1207/s15516709cog0502_2)
 - The toughest high-school [Physics Olympiad](https://physicscup.ee/)
