@@ -13,7 +13,7 @@ I've been interested in Physics Olympiads for quite a while, so I created this p
 ## Thoughts
 I will be sharing my thoughts and experiences here. 
 
-[Go to Post OSN Reflection](newpost.md)
+[Post OSN Reflection](newpost.md)
 
 
 ## Interesting Stuff
