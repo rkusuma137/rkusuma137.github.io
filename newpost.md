@@ -1,8 +1,4 @@
---
 
-title: Post OSN Reflection
-
---
 
 ### Introduction
 
