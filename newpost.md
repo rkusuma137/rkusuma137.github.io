@@ -20,6 +20,4 @@ Mind you, I could've doubled or even tripled that number had I been a little mor
 
 In short, I had been an absolute bum. I had wasted such an incredible opportunity through sheer retardation. All the procrastinations, compromises, the chess games I played, the YouTube shorts I watched (all those Breaking Bad clips, Patrick Jane the Mentalist edits, and Dexter Morgan "aura moments"), the hours I played TheoTown, the sleep schedule I had fucked up, the habits I abandoned, and everything else came back to bite me. And what a painful bite it was!
 
-"Your future self deserve the consequences of your current actions. And you are where you are now because of the consequences of the actions that you did in the past. While you can't do anythinig about the past, if you think your future self should deserve better, then do better now; otherwise just give up."
-
-(_but giving up is not in the blood sir!_)
+"Your future self deserve the consequences of your current actions. And you are where you are now because of the consequences of the actions that you did in the past. While you can't do anything about the past, if you think your future self should deserve better, then do better now; otherwise just give up. But you know, you can't give up. You just can't. Giving up is not in the blood sir!"
