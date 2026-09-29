@@ -2,7 +2,7 @@
 
 ### Post OSN Reflections
 
-It's been over a week since the Indonesian National Science Olympiad (OSN) was over. I failed at it, in perhaps the most embarassingly miserable way possible. I scored a 0.0/70.0 at the theoretical exam and barely scraping 5.0/30.0 at the experimental. Absolutely garbage. It was a reality check, a wake up call if you will. And at that moment, waves of regret, disappointment, frustration, anger all came crashing down. I couldn't even feel anything, I knew it was already over. And I was proven right just ~2 days later during the announcement and closing ceremony.
+It's been over a week since the Indonesian National Science Olympiad (OSN) was over. I failed at it, in perhaps the most embarassingly miserable way possible. I scored a 0.0/70.0 at the theoretical exam and barely scraping 5.0/30.0 at the experimental (assumed). Absolutely garbage. It was a reality check, a wake up call if you will. And at that moment, waves of regret, disappointment, frustration, anger all came crashing down. I couldn't even feel anything, I knew it was already over. And I was proven right just ~2 days later during the announcement and closing ceremony.
 
 ### What was the main culprit behind my failure?
 
