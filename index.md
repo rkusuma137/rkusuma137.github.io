@@ -23,3 +23,4 @@ An assortment of sites, papers, and competitions I find inspiringly amusing.
 - Heller and Reif [(1984)](https://www.tandfonline.com/doi/abs/10.1207/s1532690xci0102_2)
 - Chi, Feltovich, Glaser [(1981)](https://onlinelibrary.wiley.com/doi/10.1207/s15516709cog0502_2)
 - The toughest high-school [Physics Olympiad](https://physicscup.ee/)
+- Paul Graham's famous essay, aptly titled, [_What You'll Wish You'd known_](https://paulgraham.com/hs.html)
