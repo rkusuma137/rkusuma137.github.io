@@ -24,3 +24,4 @@ An assortment of sites, papers, and competitions I find inspiringly amusing.
 - Chi, Feltovich, Glaser [(1981)](https://onlinelibrary.wiley.com/doi/10.1207/s15516709cog0502_2)
 - The toughest high-school [Physics Olympiad](https://physicscup.ee/)
 - One of Paul Graham's famous essay, aptly titled, [_What You'll Wish You'd known_](https://paulgraham.com/hs.html)
+- Somewhat unrelated to physics olympiads, but more about the leap of faith it takes to do something [bold](https://youtu.be/oCNx8Xa-oug?si=zjW2UQZ6usKD6z34)
