@@ -1,4 +1,4 @@
-# A Brief Update
+
 ### Findings:
 Today is November 15th and I just did an interview with Rachel, an OSN medalist where she placed #19/60 at this year's Physics OSN and won bronze. I’m able to find some of the followings
 - She tends to spend more time reading theory and re-deriving expressions from scratch rather than solving a large quantity of problems. Though, it’s still important to consider that she has solved around 800-1200 problems and had spent between 500-800 hours (both are rough estimations, so take that with a grain of salt), which she later affirm that it’s “less than typical” of the other medalists.
