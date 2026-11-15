@@ -1,0 +1,19 @@
+# A Brief Update
+### Findings:
+Today is November 15th and I just did an interview with Rachel, an OSN medalist where she placed #19/60 at this year's Physics OSN and won bronze. I’m able to find some of the followings
+- She tends to spend more time reading theory and re-deriving expressions from scratch rather than solving a large quantity of problems. Though, it’s still important to consider that she has solved around 800-1200 problems and had spent between 500-800 hours (both are rough estimations, so take that with a grain of salt), which she later affirm that it’s “less than typical” of the other medalists.
+- Her self auditing phase can be categorized into two groups (1) during practice, (2) during exam. In the first case, she’d push through her draft and compare the final answer to the key. While in the second case, she’d stop when she notices something “weird” and then trace back its source.
+- During problem solving, the first thing that she’d do is to get some scratch work, like drawing diagrams, before stating expressions and logical reasoning. She’d also like to organize her work by the mantra of “diketahui, ditanya, dijawab”. Though it’s fair to highlight that she did not explicitly list how she puts the phases of problem solving down in her solution; she just kind of goes by that mantra. Aside from that, she mentioned that she intentionally write her solution to be clear and easy to follow for the graders.
+- She also mentioned some of her habits. She said that she’s more effective in the morning, that’s why she takes those dispensations and that’s also why she rarely studies physics after school in the evening. She mentioned that she goes to sleep usually around 9 PM, presumably waking up around 4 AM. Accordingly, she noted that had she relied only on evening studies, the preparation wouldn’t have been as effective for her.
+
+### Verdict: 
+I think this is a sufficient starting point, though it doesn’t provide the necessary resolution that I’m after. Per se, I am unable to probe into their thought process when they’re solving a novel problem. In the future, I think it’d be reasonable to give them several questions from HRK during the interview and kind of have them explain their live thought process.
+
+### Reflection:
+>This is probably a tangent, but I might genuinely be more suited towards cognitive science than anything really. 
+
+I think it's quite interesting because all of these ultimately stemmed from 2025 when I took a simulated test of the OSN Kabupaten 2025 and I only got 8/40 problems solved with 4/40 problems right (it was multiple choice). So from then it kind of started, the idea to optimize in some ways, of what I've always been doing with physics. 
+
+But even before then, say in 2023, when I didn't get place in class rank in junior high school. I went on this "self improvement" arc. It was like the start of 8th term 1, but by then I was like exposed to this book by Mihaly titled Flow, then I also read the books from Cal Newport on "So Good they can't ignore you" then also deep work, then also I read K Anderss Ericsson paper on deliberate practice, all the while I was also tuning in to Andrew Huberman's podcast and basically was just optimizing optimizing. But back then what I was looking after was the output of how much time I'm spending studying or more like deep working. Not necessarily on just physics, but more generally. 
+
+So like to me I guess, subconcsciously, physics olympiad specifically is just a project that I'm actively working on to try "recursive improvement". And this project is far from over, at least not until I can "reach the end of the tunnel". So that means I still have to not only be the "researcher" analyzing and suggesting refinements to myself, but I also have to be the "subject of interest" as well whose executing those refinements as well. This is a really interesting way to look into it, and perhaps it's one of the silver linings.
