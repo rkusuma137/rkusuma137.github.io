@@ -13,8 +13,8 @@ I've been interested in Physics Olympiads for quite a while, so I created this p
 ## Thoughts
 I will be sharing my thoughts and experiences here. 
 
-[A Brief Update](15Nov.md)
-[Post OSN Reflection](newpost.md)
+- [A Brief Update](15Nov.md)
+- [Post OSN Reflection](newpost.md)
 
 
 ## Interesting Stuff
